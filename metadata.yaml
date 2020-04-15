@@ -1,0 +1,47 @@
+_repo: Winged-Arrow-s-Medicine-Or-The-Massacre-at-Fort-Phil-Kearney_61767
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Fry, W. H.
+    gutenberg_agent_id: '8528'
+    url: http://www.gutenberg.org/2009/agents/8528
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Castlemon, Henry
+    - Fosdick, Charles Austin
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+    wikipedia: https://en.wikipedia.org/wiki/Harry_Castlemon
+description: ''
+gutenberg_issued: '2020-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61767'
+  lccn: '01011744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Red Cloud''s War, 1866-1867 -- Juvenile fiction'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcsh 'Massacres -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Prisoners -- Juvenile fiction'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcsh 'Treaties -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Fetterman Fight, Wyo., 1866 -- Juvenile fiction'
+- !lcsh 'Wyoming -- History -- Juvenile fiction'
+- !lcsh 'Ambition -- Juvenile fiction'
+- GITenberg
+title: Winged Arrow's Medicine; Or, The Massacre at Fort Phil Kearney
+url: http://www.gutenberg.org/ebooks/61767
