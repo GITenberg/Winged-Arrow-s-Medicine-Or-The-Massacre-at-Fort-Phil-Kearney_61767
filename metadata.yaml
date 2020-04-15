@@ -1,10 +1,13 @@
 _repo: Winged-Arrow-s-Medicine-Or-The-Massacre-at-Fort-Phil-Kearney_61767
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Fry, W. H.
     gutenberg_agent_id: '8528'
     url: http://www.gutenberg.org/2009/agents/8528
+covers:
+- cover_type: archival
+  image_path: 61767-h/images/cover.jpg
 creator:
   author:
     agent_name: Castlemon, Harry
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2274
     wikipedia: https://en.wikipedia.org/wiki/Harry_Castlemon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61767#Winged-Arrow-s-Medicine-Or-The-Massacre-at-Fort-Phil-Kearney
 gutenberg_issued: '2020-04-06'
 gutenberg_type: Text
 identifiers:
